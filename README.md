@@ -35,9 +35,9 @@ All this is possible thanks to the help of the game developed by our group and a
 We recreated the Lego game,which consist in small bricks that can be interlocked together to form different constructions. Thanks to the Leap we were able to recognize the hand of the injured subject, with simple gesture the player can move different bricks in a 3D area beeing able to create everything he can think of.
 The player will have to use his prosthesis in order to grab the pieces and move them around the area. This implies a lot of concentration and helps the subject to learn different movements to manage in a better way the prosthesis. 
 
-/*************************************************************************************/
-/*************************************************************************************/
-/*************************************************************************************/
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 LEGO CRAFT							developed by The Brik Company
 
