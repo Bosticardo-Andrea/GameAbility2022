@@ -8,6 +8,7 @@ Our goal is to improve the patient's rehabilitation experience, through a game t
 To solve this issue we’ve recreated the Lego game in a 3D virtual environment using a device called Leap to track the movements of the patient’s hand from the wrist to the fingers tips.
 
 THE TEAM
+
 BOSTICARDO ANDREA	Developer
 In addition to being the manager of the group, he’s the responsable for the creation of some scripts which let the LEAP interface with Unity and also to make it able to manage the operations of movement and interaction with the individual pieces such as bricks physic and hitbox.
 
