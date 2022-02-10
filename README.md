@@ -2,12 +2,13 @@
 
 LEGO CRAFT							developed by The Brik Company
 
-ABOUT US & OUR AMBITION
+ABOUT US & OUR AMBITION:
+
 We are a group of four young guys who worked in the development and creation of a video game that could help people, who found themselves using a hand prosthesis in their everyday life.
 Our goal is to improve the patient's rehabilitation experience, through a game that makes motor restoration activities funnier than the actual methods. This project has been designed especially for children as rehabilitation might be boring or too hard for them.
 To solve this issue we’ve recreated the Lego game in a 3D virtual environment using a device called Leap to track the movements of the patient’s hand from the wrist to the fingers tips.
 
-THE TEAM
+THE TEAM:
 
 BOSTICARDO ANDREA	Developer
 In addition to being the manager of the group, he’s the responsable for the creation of some scripts which let the LEAP interface with Unity and also to make it able to manage the operations of movement and interaction with the individual pieces such as bricks physic and hitbox.
@@ -26,7 +27,8 @@ He took care of the management of the music and the creation of the lego pieces 
 
 
 
-OUR CONCEPT
+OUR CONCEPT:
+
 The idea behind the project is the creation of an alternative and fun method to help children in rehabilitation for hand prostheses.
 The process of rehabilitation via prostheses can be very long and tedious for a child since the mainly used methods are repetitive and not as stimulating as our. Which idea is based on creating a new method to make that process more creative and also funnier.
 All this is possible thanks to the help of the game developed by our group and a smart input device: the LEAP.
@@ -39,12 +41,14 @@ The player will have to use his prosthesis in order to grab the pieces and move 
 
 LEGO CRAFT							developed by The Brik Company
 
-CHI SIAMO & IL NOSTRO OBIETTIVO
+CHI SIAMO & IL NOSTRO OBIETTIVO:
+
 Siamo un gruppo di quattro giovani ragazzi che si sono occupati nello sviluppo e nella creazione di un videogioco il quale potesse aiutare persone, che si sono ritrovati ad utilizzare nella vita di tutti i giorni una protesi per la mano.
 Il nostro obiettivo è quello di migliorare l’esperienza di riabilitazione del paziente, tramite un gioco per rendere le attività motorie di ripristino più divertenti. Questo progetto è stato ideato per bambini dato che la riabilitazione, potrebbe risultare noiosa per loro.
 Quindi per risolvere tale dilemma abbiamo cercato di ricreare i lego in 3d e in un ambiente virtuale gestito da un dispositivo chiamato Leap.
 
-IL TEAM
+IL TEAM:
+
 BOSTICARDO ANDREA	Developer
 Oltre ad essere il manager del gruppo, si è occupato della creazione di tutti gli script per l’interfacciamento del LEAP con Unity e per poter gestire le operazioni di movimento e interazione con i singoli pezzi ad esempio la fisica e la hitbox. 
 
@@ -60,7 +64,8 @@ Si è occupato della gestione della musica e della creazione dei pezzi lego in 3
 
 
 
-LA NOSTRA IDEA
+LA NOSTRA IDEA:
+
 L’idea alla base del progetto è la creazione di un metodo alternativo e divertente per aiutare i ragazzi nella riabilitazione per le protesi alla mano.
 Il processo di riabilitazione tramite protesi può essere molto lungo e noioso per un ragazzo e i metodi che spesso vengono usati sono ripetitivi. La nostra idea si basa sulla creazione di un nuovo metodo per rendere tale processo più divertente e creativo.
 Tutto ciò è possibile grazie all’ausilio di un gioco appositamente creato e un dispositivo intelligente di input: il LEAP.
